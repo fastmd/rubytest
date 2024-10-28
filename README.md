@@ -1,6 +1,10 @@
 Test 1 :  ruby script.rb --month 062024 --theme summer --resolution 1024x1024
+
 Test 2 : ruby script.rb --month 062024 --theme summer
-Test 3 : 
+
+Test 3 : ruby script.rb --month 062024 --theme summer --threads 30
+
+
 'Usage: script.rb [options]'
 
     '-m', '--month MMYYYY', 'Specify the month and year (e.g., 102024 for October 2024)'
