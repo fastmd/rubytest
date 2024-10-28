@@ -20,3 +20,4 @@ Test 3 : ruby script.rb --month 062024 --theme summer --threads 30
     '--delay SECONDS', Float, 'Specify the delay between requests in seconds'
 
     '-h', '--help', 'Prints this help'
+RSPEc Tests : rspec spec/script_spec.rb
